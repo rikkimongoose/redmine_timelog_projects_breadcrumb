@@ -4,7 +4,7 @@ Redmine plugin: timelog_projects_breadcrumb
 
 Redmine plugin used to add project breadcrumb in timelog report.
 
-Tested on Redmine v2.2.1.
+Tested on Redmine v2.2.1, 2,4.
 
 Released under the MIT license.
 

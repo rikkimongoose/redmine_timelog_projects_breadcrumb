@@ -10,5 +10,5 @@ Redmine::Plugin.register :redmine_timelog_projects_breadcrumb do
   url 'https://github.com/jmvallet/redmine_timelog_projects_breadcrumb'
   author_url 'http://jmvallet.net/'
   version '0.0.2'
-  requires_redmine :version => ['2.2.1']
+  requires_redmine :version_or_higher => '2.2.1'
 end
